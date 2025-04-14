@@ -3,7 +3,7 @@ public class eyal{
         //System.out.println("new change");
 
         for(int i=1;i<=10;i++){
-            System.out.println("im eyal...");
+            System.out.println("new: im eyal...");
         }
     }
 }
